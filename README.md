@@ -214,10 +214,6 @@ Vì vậy, dự án đề xuất xây dựng một hệ thống quản lý tập
 
 ![Quản lý khuyến mãi](screenshots/quan-ly-khuyen-mai.png)
 
-### Sao lưu và phục hồi dữ liệu
-
-![Sao lưu phục hồi](screenshots/sao-luu-phuc-hoi.png)
-
 ### Ghi danh học viên
 
 ![Ghi danh](screenshots/ghi-danh.png)
